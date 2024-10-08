@@ -1,3 +1,8 @@
+'''
+Author : Nandana Hasheed 
+Date : 08-10-2024
+python program to find date and time 
+'''
 from datetime import datetime
 current_time=datetime.now()
 print(current_time)
