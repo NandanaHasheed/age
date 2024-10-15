@@ -1,3 +1,8 @@
+'''
+Author:Nandana Hasheed
+Date:5-10-2024
+python to program to perform mathfunctions
+'''
 import math
 number=int(input("Enter a number: "))
 print(" Square root of ",number,":",math.sqrt(number))
