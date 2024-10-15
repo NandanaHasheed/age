@@ -1,3 +1,8 @@
+'''
+Author:Nandana Hasheed
+Date:5-10-2024
+Python program to perform arithmetic operations
+'''
 a=10
 b=5
 print("Sum =:",a+b)
